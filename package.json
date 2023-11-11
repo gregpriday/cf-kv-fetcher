@@ -1,6 +1,6 @@
 {
   "name": "cf-kv-fetcher",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Fetch data from both a server and Cloudflare KV and keep them in sync.",
   "main": "src/index.js",
   "type": "module",
