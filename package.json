@@ -28,6 +28,6 @@
     "src/**/*.js"
   ],
   "peerDependencies": {
-    "sveltekit": ">=1.4.0"
+    "@sveltejs/kit": ">=1.0.0"
   }
 }
