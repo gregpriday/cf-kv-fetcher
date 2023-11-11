@@ -1,0 +1,33 @@
+{
+  "name": "cf-kv-fetcher",
+  "version": "1.0.0",
+  "description": "Fetch data from both a server and Cloudflare KV and keep them in sync.",
+  "main": "src/index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gregpriday/cf-kv-fetcher.git"
+  },
+  "keywords": [
+    "cloudflare",
+    "kv",
+    "fetch",
+    "cache",
+    "sveltekit"
+  ],
+  "author": "Greg Priday",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/gregpriday/cf-kv-fetcher/issues"
+  },
+  "homepage": "https://github.com/gregpriday/cf-kv-fetcher#readme",
+  "files": [
+    "src/**/*.js"
+  ],
+  "peerDependencies": {
+    "sveltekit": ">=1.4.0"
+  }
+}
