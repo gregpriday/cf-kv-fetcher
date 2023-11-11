@@ -19,7 +19,7 @@
     "sveltekit"
   ],
   "author": "Greg Priday",
-  "license": "ISC",
+  "license": "MIT",
   "bugs": {
     "url": "https://github.com/gregpriday/cf-kv-fetcher/issues"
   },
